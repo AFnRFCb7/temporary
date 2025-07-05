@@ -1,8 +1,6 @@
 {
     inputs =
         {
-            environment-variable.url = "github:/viktordanek/environment-variable" ;
-            flake-utils.url = "github:numtide/flake-utils" ;
             nixpkgs.url = "github:NixOs/nixpkgs" ;
             shell-script.url = "github:viktordanek/shell-script/issue/50-new-implementation" ;
             visitor.url = "github:viktordanek/visitor" ;
